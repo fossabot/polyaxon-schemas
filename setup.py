@@ -17,7 +17,7 @@ class PyTest(TestCommand):
         sys.exit(errcode)
 
 setup(name='polyaxon-schemas',
-      version='0.0.13',
+      version='0.0.14',
       description='Schema definitions and validation for Polyaxon.',
       maintainer='Mourad Mourafiq',
       maintainer_email='mouradmourafiq@gmail.com',
